@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32929.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDFeXpress", "PDFeXpress.csproj", "{C219AEA7-9886-46AB-B458-3C2ECA30B795}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C219AEA7-9886-46AB-B458-3C2ECA30B795}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C219AEA7-9886-46AB-B458-3C2ECA30B795}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C219AEA7-9886-46AB-B458-3C2ECA30B795}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C219AEA7-9886-46AB-B458-3C2ECA30B795}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E519B5C-8786-4F75-864E-B79CE48E392F}
+	EndGlobalSection
+EndGlobal
